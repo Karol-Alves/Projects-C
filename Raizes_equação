@@ -12,7 +12,7 @@ int main (){
         printf("Enter another value: ");
         scanf("%d", &a);
     }
-        //delta
+    //Delta
     Delta=((b*b) - (4*(a*c)));
     
     if ( Delta < 0){
